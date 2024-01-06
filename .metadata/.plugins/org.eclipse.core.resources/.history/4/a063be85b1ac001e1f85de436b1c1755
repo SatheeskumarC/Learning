@@ -1,0 +1,9 @@
+public class Main {
+	public static void main(String[] args) {
+	
+		Doctor d1= new Doctor;
+		Doctor d2= new Doctor;
+
+	}
+
+}
